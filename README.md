@@ -9,6 +9,9 @@ Slide 10/37 [![static/images/Screenshot-2023-10-16-202738-Best-Prac-Slide-2.png]
 
 Slide 11/37 [![static/images/Screenshot-2023-10-16-205511-Best-Prac-Slide-3.png](https://github.com/CoderSales/Notes-Week6-Revision-Best-Practice-Software-Internationisation/blob/main/static/images/Screenshot-2023-10-16-205511-Best-Prac-Slide-3.png)](https://learn.ul.ie/d2l/le/lessons/10835/topics/457621)
 
+Slide 23/37 [![static/images/Screenshot-2023-10-16-232100-Best-Prac-Slide-Tranlatable-xml.png](https://github.com/CoderSales/Notes-Week6-Revision-Best-Practice-Software-Internationisation/blob/main/static/images/Screenshot-2023-10-16-232100-Best-Prac-Slide-Tranlatable-xml.png)](https://learn.ul.ie/d2l/le/lessons/10835/topics/457621)
+
+
 usually an xml fiile
 
 ml = markup language.
