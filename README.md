@@ -30,5 +30,40 @@ status of strings:
 	- needs exported.
 ![image](https://github.com/CoderSales/Notes-Week6-Revision-Best-Practice-Software-Internationisation/assets/32943259/62eb0658-b68f-43cb-9fdb-56ac25572160)
 
+in the next weeks in terms of CAP tools
+
+1st of all will look at things like 
+
+xml files.
+
+______
+
+what would see 
+
+xml file
+
+what want to visit
+
+purple no
+
+grey.
+
+xml works like:
+
+version of 
+
+encoding="UTF-8">	
+
+orange
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+[CS4093_Week03_LiveLecture - CS6381 - BEST PRACTICE SOFTWARE INTERNATIONALISATION 2023/4 SEM1 (ul.ie)](https://learn.ul.ie/d2l/le/lessons/10835/topics/457621)
+
+
+lecture slides
+![image](https://github.com/CoderSales/Notes-Week6-Revision-Best-Practice-Software-Internationisation/assets/32943259/ad7400e6-b842-4511-a48f-f84e52a9c4d6)
+
 
 ## References
